@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="telegrambots-4.6">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/telegram/telegrambots/4.6/telegrambots-4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
